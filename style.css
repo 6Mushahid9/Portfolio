@@ -353,7 +353,7 @@ footer a{
 
 @media (max-width:500px){
   nav div{
-    width: 98%;
+    width: 95%;
   }
   nav div span{
     font-size: 18px;
@@ -397,7 +397,7 @@ footer a{
     width: 80px;
   }
   .skill{
-      margin-top:2rem;
+      margin-top:3.5rem;
     height: 70vh;
   }
   .skill .cards{
