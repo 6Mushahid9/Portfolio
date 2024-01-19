@@ -368,13 +368,13 @@ footer a{
     font-size: 10px;
   }
   .container{
-    width: 90%;
+    width: 80%;
   }
   .links{
     opacity: 0;
   }
   .intro{
-    height: 70vh;
+    height: 65vh;
   }
   .intro h1{
     font-size: 25px;
@@ -386,7 +386,7 @@ footer a{
     width: 160%;
   }
   .intro img{
-      height:40%;
+      height:35%;
     margin: 0px;
   }
   .intro .content button{
@@ -431,7 +431,7 @@ footer a{
     font-size: 13px;
   }
   footer{
-    height: 15%;
+    height: 20%;
   }
   footer a{
     height: 35px;
